@@ -1,5 +1,5 @@
 # EXP-6--Shift-Register
-# Design and Verification of a 4-bit Serial-In Parallel-Out (SIPO) Shift Register
+# Design and Verification of a 4-bit Serial-In Parallel-Out (SIPO) Shift Register 
 ## Aim
 
 To design and verify a 4-bit Serial-In Parallel-Out (SIPO) Shift Register using Verilog HDL, and to observe its behaviour using a testbench and VCD waveform.
